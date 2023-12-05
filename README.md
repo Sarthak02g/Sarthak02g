@@ -6,7 +6,7 @@ I'm Sarthak Gupta.
 
 - 📫 How to reach me: **sarthakgupta0212@gmail.com**
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sarthak02g)](https://github.com/Sarthak02g/github-readme-stats)
 [![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak02g)](https://github.com/Sarthak02g/github-readme-stats)
 <!--
 **Sarthak02g/Sarthak02g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
