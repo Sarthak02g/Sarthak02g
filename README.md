@@ -1,6 +1,9 @@
 ### Hi there 👋
 I'm Sarthak Gupta.
+<br>
 [![@sarthak02g's Holopin board](https://holopin.me/sarthak02g)](https://holopin.io/@sarthak02g)
+<br>
+[![Sarthak's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sarthak02g)](https://github.com/Sarthak02g/github-readme-stats)
 <!--
 **Sarthak02g/Sarthak02g** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
